@@ -10,6 +10,6 @@ class CashRegisterMain {
 //
         ApplicationContext context =
                 new ClassPathXmlApplicationContext("config.xml");
-        CashRegister register = context.getBean("register", CashRegister.class);
+        CashRegister register = context.getBean(CashRegister.class);
     }
 }

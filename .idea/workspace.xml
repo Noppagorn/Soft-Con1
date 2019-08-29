@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a805bd94-c567-448a-a0a1-e57dc8f8d7a6" name="Default Changelist" comment="" />
+    <list default="true" id="a805bd94-c567-448a-a0a1-e57dc8f8d7a6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/config-annotation.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/th/ku/register/CashRegister.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/th/ku/register/CashRegister.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/th/ku/register/CashRegisterMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/th/ku/register/CashRegisterMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/th/ku/register/NYTaxCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/th/ku/register/NYTaxCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/th/ku/register/CashRegister.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/th/ku/register/CashRegister.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/th/ku/register/CashRegisterMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/th/ku/register/CashRegisterMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/th/ku/register/NYTaxCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/th/ku/register/NYTaxCalculator.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,40 +26,42 @@
     <session id="-515133446">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="60" />
-          <entry key="xml" value="103" />
+          <entry key="java" value="112" />
+          <entry key="xml" value="122" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="60" />
-          <entry key="XML" value="103" />
+          <entry key="JAVA" value="112" />
+          <entry key="XML" value="122" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="iml" value="1" />
           <entry key="java" value="5" />
-          <entry key="xml" value="1" />
+          <entry key="xml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="1" />
           <entry key="JAVA" value="5" />
-          <entry key="XML" value="1" />
+          <entry key="XML" value="2" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
@@ -69,12 +83,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/th/ku/register/CATaxCalculator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding>
-                <element signature="e#99#100#0" expanded="true" />
-                <element signature="e#136#137#0" expanded="true" />
-              </folding>
+            <state>
+              <caret selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -82,8 +92,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/th/ku/register/NYTaxCalculator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="85">
+              <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -91,23 +104,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/th/ku/register/CashRegister.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="23" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="23" />
-              <folding>
-                <element signature="e#302#303#0" expanded="true" />
-                <element signature="e#336#337#0" expanded="true" />
-                <element signature="e#367#368#0" expanded="true" />
-                <element signature="e#427#428#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/th/ku/register/CashRegisterMain.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="57" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="57" />
+            <state relative-caret-position="170">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -116,10 +114,31 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/th/ku/register/CashRegisterMain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="227">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/config.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
-              <caret line="9" column="55" selection-start-line="9" selection-start-column="55" selection-end-line="9" selection-end-column="55" />
+              <caret line="9" column="56" selection-start-line="9" selection-start-column="56" selection-end-line="9" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/config-annotation.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="10" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -136,8 +155,12 @@
       <list>
         <option value="Interface" />
         <option value="Class" />
+        <option value="spring-beans.schema" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -149,7 +172,9 @@
         <option value="$PROJECT_DIR$/src/main/java/CashRegister.java" />
         <option value="$PROJECT_DIR$/src/main/java/CashRegisterMain.java" />
         <option value="$PROJECT_DIR$/src/main/java/th/ku/register/CashRegister.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/config-annotation.xml" />
         <option value="$PROJECT_DIR$/src/main/java/th/ku/register/CashRegisterMain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/th/ku/register/NYTaxCalculator.java" />
         <option value="$PROJECT_DIR$/src/main/resources/config.xml" />
       </list>
     </option>
@@ -178,6 +203,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -229,14 +255,14 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566442879850" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1567043672187" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -280,12 +306,14 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1566440621725</updated>
-      <workItem from="1566440624853" duration="2240000" />
+      <workItem from="1566440624853" duration="2525000" />
+      <workItem from="1567010692825" duration="1733000" />
+      <workItem from="1567043014919" duration="654000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2240000" />
+    <option name="totallyTimeSpent" value="4912000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -300,19 +328,13 @@
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13036437" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2582996" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" weight="0.3291815" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Spring" weight="0.3291815" />
-      <window_info anchor="bottom" id="Terminal" weight="0.3291815" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3291815" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3291815" />
@@ -320,15 +342,21 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3291815" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Spring" order="9" weight="0.3291815" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3291815" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3291815" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -338,44 +366,10 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Spring.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/th/ku/register/NYTaxCalculator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/th/ku/register/CATaxCalculator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#99#100#0" expanded="true" />
-            <element signature="e#136#137#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/th/ku/register/CashRegister.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="23" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="23" />
-          <folding>
-            <element signature="e#302#303#0" expanded="true" />
-            <element signature="e#336#337#0" expanded="true" />
-            <element signature="e#367#368#0" expanded="true" />
-            <element signature="e#427#428#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -386,10 +380,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/th/ku/register/CashRegisterMain.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/th/ku/register/CATaxCalculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="57" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="57" />
+        <state>
+          <caret selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/config-annotation.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="10" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/th/ku/register/NYTaxCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -399,7 +410,27 @@
     <entry file="file://$PROJECT_DIR$/src/main/resources/config.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="9" column="55" selection-start-line="9" selection-start-column="55" selection-end-line="9" selection-end-column="55" />
+          <caret line="9" column="56" selection-start-line="9" selection-start-column="56" selection-end-line="9" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/th/ku/register/CashRegister.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/th/ku/register/CashRegisterMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
