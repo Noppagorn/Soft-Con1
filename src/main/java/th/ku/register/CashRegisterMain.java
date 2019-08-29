@@ -9,7 +9,10 @@ class CashRegisterMain {
 //        th.ku.register.CashRegister register = new th.ku.register.CashRegister(carTax);
 //
         ApplicationContext context =
-                new ClassPathXmlApplicationContext("config.xml");
+                new ClassPathXmlApplicationContext("config-annotation.xml");
         CashRegister register = context.getBean(CashRegister.class);
+
+        register.recordPurchase(160);
+        System.out.println(register.getTotal());
     }
 }
