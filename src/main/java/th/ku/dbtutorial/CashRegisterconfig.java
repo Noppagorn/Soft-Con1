@@ -1,4 +1,4 @@
-package th.ku.cashregisterjavaconfig;
+package th.ku.dbtutorial;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
